@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...Data Analyzing
 - 🌱 I’m currently learning ...Data science
 - 💞️ I’m looking for job on Junior data scientist JDS
-- 📫 How to reach me through my contact number 6380025503
+- 📫 Reach me through my contact number 6380025503 & my whatsup 8940389915 
+- ✨ LinkedIn profile link https://www.linkedin.com/in/rohit-r-deeran-4081191a4/
 
 <!---
 Rohit1208/Rohit1208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
