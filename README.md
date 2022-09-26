@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohit1208
 - 👀 I’m interested in ...Data Analyzing
 - 🌱 I’m currently learning ...Data science
-- 💞️ I’m looking for job on Junior data scientist JDS
+- 💞️ Working as Junior data scientist JDS in SENVION India PVT ltd.
 - 📫 Reach me through my contact number 6380025503 & my whatsup 8940389915 
 - ✨ LinkedIn profile link https://www.linkedin.com/in/rohit-r-deeran-4081191a4/
 
